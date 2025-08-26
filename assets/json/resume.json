@@ -1,114 +1,81 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Kiran Bhattacharyya",
+    "label": "Machine Learning Scientist and Manager",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "bhattacharyyakiran12@gmail.com",
+    "phone": "(314) 922-3524",
+    "url": "https://kiran-bhattacharyya.github.io/",
+    "summary": "AI/ML scientist, engineer, and manager with 10 years of experience in artificial intelligence and machine learning, specializing in image/video-based deep learning, vision-language reasoning systems, and clinical AI.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "GA 30340",
+      "city": "Atlanta",
       "countryCode": "US",
-      "region": "California"
-    },
-    "profiles": [
-      {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
-      }
-    ]
+      "region": "Georgia"
+    }
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
-  ],
-  "volunteer": [
+      "name": "Intuitive Surgical, Inc.",
+      "position": "Senior Manager, Machine Learning",
+      "url": "https://www.intuitive.com/en-us/products-and-services/da-vinci/5",
+      "startDate": "2024-04-01",
+      "endDate": "Present",
+      "summary": "Led a team of ML Scientists and an ML manager, delivering critical production software and driving innovation in surgical AI and LLM-based systems. Led the development and release of machine learning capabilities for the new da Vinci 5 system. Successfully deployed into production multi-modal agentic systems in a HIPAA-compliant environment and trained vision-language models on surgical video data prototyping natural language interactions with surgical video.",
+      "highlights": ["Surgical AI", "Agentic systems", "Vision-language reasoning"]
+    },
     {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
+      "name": "Intuitive Surgical, Inc.",
+      "position": "Manager, Machine Learning",
+      "url": "https://www.intuitive.com/en-us/products-and-services/da-vinci/5",
+      "startDate": "2021-08-01",
+      "endDate": "2024-04-01",
+      "summary": "Spearheaded the development of deep learning models for activity recognition using video and kinematics data with Python, PyTorch, and TensorFlow. Successfully deployed advanced video deep learning models to production building reliable, scalable, and maintainable AI systems.",
+      "highlights": ["Video action recognition", "Surgical skill analysis", "MLOps"]
+    },
+    {
+      "name": "Intuitive Surgical, Inc.",
+      "position": "Machine Learning Scientist",
+      "url": "https://www.intuitive.com/en-us/products-and-services/da-vinci/5",
+      "startDate": "2019-05-01",
+      "endDate": "2021-08-01",
+      "highlights": ["Deep learning", "Machine learning", "Scientific research"]
     }
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
+      "institution": "Northwestern University",
+      "location": "Evanston, IL",
+      "area": "Biomedical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2013-09-01",
+      "endDate": "2019-04-01"
+    },
+    {
+      "institution": "University of Missouri",
+      "location": "Columbia, MO",
+      "area": "Biomedical Engineering",
+      "studyType": "MS",
+      "startDate": "2011-08-01",
+      "endDate": "2013-05-01"
+    },
+    {
+      "institution": "University of Missouri",
+      "location": "Columbia, MO",
+      "area": "Biomedical Engineering",
+      "studyType": "BS",
+      "startDate": "2006-08-01",
+      "endDate": "2011-05-01"
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
-    },
-    {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "title": "NSF Graduate Research Fellowship",
+      "date": "2013-09-01",
+      "awarder": "National Science Foundation",
+      "url": "https://www.nsf.gov/funding/opportunities/grfp-nsf-graduate-research-fellowship-program",
+      "summary": "The NSF Graduate Research Fellowship was established to recruit and support individuals who demonstrate the potential to make significant contributions in STEM into research-based graduate studies."
     }
   ],
   "publications": [
@@ -151,13 +118,18 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
+      "fluency": "Fluent",
+      "icon": ""
+    },
+    {
+      "language": "Bengali",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "Hindi",
+      "fluency": "Native speaker",
       "icon": ""
     }
   ],
